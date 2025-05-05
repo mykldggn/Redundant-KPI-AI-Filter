@@ -2,7 +2,9 @@
 
 An AI-powered dashboard that analyzes your metrics to identify vanity metrics and recommend actionable KPIs that drive business outcomes.
 
-![KPI Audit Tool Screenshot](screenshot.png)
+![KPI Audit Tool Screenshots](screenshot1.png)
+
+![KPI Audit Tool Screenshots](screenshot2.png)
 
 ## Features
 
