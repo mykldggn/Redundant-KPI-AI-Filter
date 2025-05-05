@@ -14,6 +14,9 @@ An AI-powered dashboard that analyzes your metrics to identify vanity metrics an
 - **Metrics to Reconsider**: Flags metrics that may be misleading or not driving outcomes
 - **Improvement Recommendations**: Practical advice to improve your metrics framework
 
+## Here is a Claude Artifact of the Project as a Demo (Slightly Different UI, Static Df)
+https://claude.ai/public/artifacts/4a67785b-9c25-4520-85a7-e84448da836e
+
 ## Getting Started
 
 ### Prerequisites
